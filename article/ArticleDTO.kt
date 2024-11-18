@@ -1,4 +1,4 @@
-package com.skramMaster.dto.article
+package com.skram_master.dto.article
 
 import kotlinx.serialization.Serializable
 
