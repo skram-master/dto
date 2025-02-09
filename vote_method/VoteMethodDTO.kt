@@ -6,5 +6,5 @@ import kotlinx.serialization.Serializable
 @Serializable
 data class VoteMethodDTO(
     val type: VoteMethodType,
-    val options: List<VoteMethodOptionsDTO>,
+    val options: List<String>,
 )
