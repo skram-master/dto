@@ -1,6 +1,6 @@
 package com.skram_master.dto.vote_method
 
-import com.skram_master.enums.VoteMethod.VoteMethodType
+import com.skram_master.enums.vote_method.VoteMethodType
 import kotlinx.serialization.Serializable
 
 @Serializable
